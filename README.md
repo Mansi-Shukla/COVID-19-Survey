@@ -33,9 +33,11 @@ This is an Udacity Nanodegree project.I was interested in COVID-19 dataset to be
 
 
 ### 3. File Description
+
 COVID-19 SURVEY.ipynb: Notebook containing the data analysis.
+
 time-series-19-covid-combined.csv: The COVID-19 dataset
-data/2019/survey_results_public.csv: Stackoverflow's 2019 Annual Developer Survey data.
+
 
 ### 4. Results
 The main findings of the project can be found at the post available [here](https://medium.com/@mansishukla2505/the-demographic-impact-of-covid-19-d6c6c69a40a4).
